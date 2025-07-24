@@ -1,0 +1,9 @@
+logs/
+main.log
+*.log
+bin/
+*.bin
+.idea/
+env/
+*.env
+.env
